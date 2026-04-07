@@ -1,6 +1,6 @@
 # Finance Data Processing and Access Control Backend
 
-A backend system for managing financial records with role-based access control. Built as part of a backend assessment for Zorvyn FinTech.
+A backend system for managing financial records with role-based access control. A personal project built to practice backend engineering concepts.
 
 ---
 
